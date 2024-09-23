@@ -33,8 +33,8 @@ For me the most challenging were the nested grids. I found a good solution using
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/DvoraG/news-homepage)
+- Live Site URL: [live on Netlify](https://https://dg-news-homepage.netlify.app/)
 
 ## My process
 
@@ -54,9 +54,7 @@ For me the most challenging were the nested grids. I found a good solution using
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Next step is to adopt a JS framework solution for the challenge.
 
 ### Useful resources
 
